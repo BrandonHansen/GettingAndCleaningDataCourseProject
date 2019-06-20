@@ -1,5 +1,5 @@
 
-wd <- '~/R/coursera/getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset'
+wd <- '~/getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset'
 
 x_train <- paste(wd, '/train/X_train.txt', sep='')
 y_train <- paste(wd, '/train/y_train.txt', sep='')
